@@ -46,7 +46,7 @@ Second page including:
 - **Compliance measurement analysis**
 - Segmentation by **sector and region** for deeper insights
 
-![Performance Dashboard](images/Performance.png)
+![Performance Dashboard](images/performance.png)
 
 ---
 
